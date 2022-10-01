@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TRELLO-LIGHT/static/css/main.e9c8f168.css",
+    "main.js": "/TRELLO-LIGHT/static/js/main.ddebc036.js",
+    "static/media/logo.svg": "/TRELLO-LIGHT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TRELLO-LIGHT/index.html",
+    "main.e9c8f168.css.map": "/TRELLO-LIGHT/static/css/main.e9c8f168.css.map",
+    "main.ddebc036.js.map": "/TRELLO-LIGHT/static/js/main.ddebc036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c8f168.css",
+    "static/js/main.ddebc036.js"
+  ]
+}
